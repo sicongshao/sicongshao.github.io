@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Sicong Shao is an assistant professor of the School of Electrical Engineering and Computer Science at the University of North Dakota (UND). Before joining UND, he was a research assistant professor in the Department of Electrical and Computer Engineering (ECE) at the University of Arizona where he also received his Ph.D. in ECE.  His research interests include cybersecurity, machine learning, artificial intelligence, and software engineering. Dr. Shao leads the Intelligent Software and System Security Lab (ISSSL), which is dedicated to advancing cutting-edge research in software and system security and AI-assisted cybersecurity techniques.
+Dr. Sicong Shao is an assistant professor of the School of Electrical Engineering and Computer Science at the University of North Dakota (UND). Before joining UND, he was a research assistant professor in the Department of Electrical and Computer Engineering (ECE) at the University of Arizona where he also received his Ph.D. in ECE.  His research interests include cybersecurity, machine learning, artificial intelligence, and software engineering. Dr. Shao leads the Intelligent Software and System Security Lab (ISSSL), which is dedicated to advancing cutting-edge research in system security, software security, and AI-assisted cybersecurity techniques.
 
 
 
