@@ -9,10 +9,9 @@ redirect_from:
 
 Dr. Sicong Shao is an assistant professor of the School of Electrical Engineering and Computer Science at the University of North Dakota (UND). Before joining UND, he was a research assistant professor in the Department of Electrical and Computer Engineering (ECE) at the University of Arizona where he also received his Ph.D. in ECE.  His research interests include cybersecurity, machine learning, artificial intelligence, and software engineering. Dr. Shao leads the Intelligent Software and System Security Lab (ISSSL), which is dedicated to advancing cutting-edge research in software and system security and AI-assisted cybersecurity techniques.
 
-<!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}Github}$$ -->
 
-$${\color{red}I \space am \space actively \space seeking \space graduate \space students \space joining \space my \space lab \space working \space with \space me.}$$
-$${\color{red} If \space you \space are \space interested, \space please \space email \space me \space at \space sicong.shao@und.edu}$$
+
+<span style="color: red;">*I am actively seeking graduate students to join my lab working with me. If you are interested, please email me at sicong.shao@und.edu*</span>  
 
 
 Current Students
@@ -26,7 +25,7 @@ Current Students
 
 News
 ======
-* **12/2024** *Welcome new students Desmond and Preeti, who joined my lab.*
+* **12/2024** *Welcome new graduate students Desmond and Preeti, who join my lab.*
 * **11/2024** *Dr. Shao (PI) received the Early Career Scholars Program award from UND VPRED.*
 * **11/2024** One paper accepted to IEEE ICCC 2024. 
 * **10/2024** One paper accepted to IEEE ECICE 2024. 
@@ -34,11 +33,11 @@ News
 * **08/2024** Two papers accepted to IEEE CARS 2024.
 * **08/2024** *Dr. Shao (Co-PI) received Industry University Cooperative Research Center planning grant from NSF.*
 <!-- * **08/2024** Dr. Shao was invited to server as Technical Program Committee (TPC) member at the IEEE HOST 2025. -->
-* **08/2024** *Welcome new student Ali Haidar, who joined my lab.*
+* **08/2024** *Welcome new student Ali Haidar to join my lab.*
 * **07/2024** One paper accepted to DDDAS 2024.
-* **06/2024** Welcome new student Brian Terry, who joing my lab.
+* **06/2024** *Welcome new student Brian Terry to join my lab.*
 * **02/2024** *Dr. Shao (PI) received SARJ award through NSF EPSCoR RII Track-2 FEC from USA/NSF.*
-* **01/2024** *Welcome new students Qinxuan Shi and Zhanglong Yang, who joing my lab.*
+* **01/2024** *Welcome new students Qinxuan Shi and Zhanglong Yang, who join my lab.*
 * **01/2024** Dr. Shao was invited to server as guest editor for a special issue in the Electronics journal.
 * **10/2023** Three papers accepted to AICCSA 2023.
 * **09/2023** One paper accepted to IEEE UEMCON 2023.
