@@ -22,7 +22,7 @@ Current Students
 * Zhanglong Yang, PhD student in Computer Science, University of North Dakota, Jan. 2024 - Present (BS, University of Electronic Science and Technology of China)
 * Brian Terry, PhD student in Computer Science, University of North Dakota, Jan.2024- Present (BS, University of Georgia; ME, University of Georgia; MS, University of West Georgia)
 * Ali Haidar, PhD student in Computer Science, University of North Dakota, Aug. 2024 - Present (MS, Arizona State University) 
-* Desmond Ejimbo Amadigwe, PhD student in Computer Science, University of North Dakota, Jan. 2025 - Present (MS, Hood College)
+* Desmond Amadigwe, PhD student in Computer Science, University of North Dakota, Jan. 2025 - Present (MS, Hood College)
 * Preeti Choubey, PhD student in Computer Science, University of North Dakota, Jan. 2025 - Present (MS, Boston University)
 
 News
