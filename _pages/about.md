@@ -27,17 +27,18 @@ News
 ======
 * **12/2024** *Welcome Desmond and Preeti, who will be joining my lab as new graduate students in Jan 2025.*
 * **11/2024** *Dr. Shao (PI) received the Early Career Scholars Program award from UND.*
-* **11/2024** One paper accepted to IEEE ICCC 2024. 
-* **10/2024** One paper accepted to IEEE ECICE 2024. 
-* **08/2024** Two papers accepted to IEEE CARS 2024.
+* **11/2024** One paper accepted to IEEE ICCC 2024.  
+* **10/2024** Dr. Shao servered as Co-chair for IEEE CARS 2024.
+* **10/2024** One paper accepted to IEEE ECICE 2024.
 * **08/2024** *Dr. Shao (Co-PI) received Industry University Cooperative Research Center planning grant from NSF.*
 <!-- * **08/2024** Dr. Shao was invited to server as Technical Program Committee (TPC) member at the IEEE HOST 2025. -->
 * **08/2024** *Welcome new student Ali Haidar to join my lab.*
+* **08/2024** Two papers accepted to IEEE CARS 2024.
 * **07/2024** One paper accepted to DDDAS 2024.
 * **06/2024** *Welcome new student Brian Terry to join my lab.*
 * **02/2024** *Dr. Shao (PI) received SARJ award through NSF EPSCoR RII Track-2 FEC from USA/NSF.*
 * **01/2024** *Welcome new students Qinxuan Shi and Zhanglong Yang, who join my lab.*
-<!-- * **01/2024** Dr. Shao was invited to server as guest editor for a special issue in the Electronics journal. -->
+* **01/2024** Dr. Shao was invited to server as guest editor for a special issue in the Electronics journal.
 * **10/2023** Three papers accepted to AICCSA 2023.
 * **09/2023** One paper accepted to IEEE UEMCON 2023.
 * **08/2023** One paper accepted to ICMLA 2023.
