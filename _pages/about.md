@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Sicong Shao is an assistant professor of the School of Electrical Engineering and Computer Science at the University of North Dakota (UND). Before joining UND, he was a research assistant professor in the Department of Electrical and Computer Engineering (ECE) at the University of Arizona where he also received his Ph.D. in ECE.  His research interests include cybersecurity, machine learning, artificial intelligence, and software engineering. Dr. Shao leads the Intelligent Software and System Security Lab (iSSSL), which is dedicated to advancing cutting-edge research in system security, software security, and AI-assisted cybersecurity techniques.
+<!-- Dr. Sicong Shao is an assistant professor of the School of Electrical Engineering and Computer Science at the University of North Dakota (UND). Before joining UND, he was a research assistant professor in the Department of Electrical and Computer Engineering (ECE) at the University of Arizona where he also received his Ph.D. in ECE.  His research interests include cybersecurity, machine learning, artificial intelligence, and software engineering. Dr. Shao leads the Intelligent Software and System Security Lab (iSSSL), which is dedicated to advancing cutting-edge research in system security, software security, and AI-assisted cybersecurity techniques. -->
+
+Dr. Sicong Shao is an Assistant Professor in the School of Electrical Engineering and Computer Science at the University of North Dakota (UND). Prior to joining UND, he was a Research Assistant Professor in the Department of Electrical and Computer Engineering at the University of Arizona, where he also earned his Ph.D. in Electrical and Computer Engineering. His research interests span cybersecurity, machine learning, artificial intelligence, and software engineering. Dr. Shao leads the Intelligent Software and System Security Lab (iSSSL), which focuses on advancing cutting-edge research in system security, software security, and AI-assisted cybersecurity techniques.
 
 
 
