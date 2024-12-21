@@ -26,7 +26,7 @@ Current Students
 News
 ======
 * **12/2024** *Welcome Desmond and Preeti, who will be joining my lab as new graduate students in Jan 2025.*
-* **11/2024** *Dr. Shao (PI) received the Early Career Scholars Program award from UND VPRED.*
+* **11/2024** *Dr. Shao (PI) received the Early Career Scholars Program award from UND.*
 * **11/2024** One paper accepted to IEEE ICCC 2024. 
 * **10/2024** One paper accepted to IEEE ECICE 2024. 
 * **08/2024** Two papers accepted to IEEE CARS 2024.
