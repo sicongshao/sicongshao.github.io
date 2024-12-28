@@ -9,25 +9,25 @@ redirect_from:
 
 <!-- Dr. Sicong Shao is an assistant professor of the School of Electrical Engineering and Computer Science at the University of North Dakota (UND). Before joining UND, he was a research assistant professor in the Department of Electrical and Computer Engineering (ECE) at the University of Arizona where he also received his Ph.D. in ECE.  His research interests include cybersecurity, machine learning, artificial intelligence, and software engineering. Dr. Shao leads the Intelligent Software and System Security Lab (iSSSL), which is dedicated to advancing cutting-edge research in system security, software security, and AI-assisted cybersecurity techniques. -->
 
-Dr. Sicong Shao is an Assistant Professor in the School of Electrical Engineering and Computer Science at the University of North Dakota (UND). Prior to joining UND, he was a Research Assistant Professor in the Department of Electrical and Computer Engineering at the University of Arizona, where he also received his Ph.D. in Electrical and Computer Engineering. His research interests span cybersecurity, machine learning, artificial intelligence, and software engineering. Dr. Shao leads the Intelligent Software and System Security Lab (iSSSL), which focuses on advancing cutting-edge research in system security, software security, and AI-assisted cybersecurity techniques.
+Dr. Sicong Shao is an Assistant Professor in the School of Electrical Engineering and Computer Science at the University of North Dakota (UND). Prior to joining UND, he was a Research Assistant Professor in the Department of Electrical and Computer Engineering at the University of Arizona, where he also received his Ph.D. in Electrical and Computer Engineering. His research interests span cybersecurity, machine learning, artificial intelligence, and software engineering. Dr. Shao leads the Intelligent Software and System Security Lab (iSSSL), which focuses on advancing cutting-edge research in system security, software security, digital forensics, and AI-assisted cybersecurity techniques.
 
 
 
 <span style="color: red;">*I am actively seeking graduate students to join my lab working with me. If you are interested, please email me at sicong.shao@und.edu*</span>  
 
 
-Current Students
+Current UND Students
 ======
-* Qinxuan Shi, PhD student in Computer Science, University of North Dakota, Jan. 2024 - Present (BE, Nanjing University; MS, University of Florida) 
-* Zhanglong Yang, PhD student in Computer Science, University of North Dakota, Jan. 2024 - Present (BS, University of Electronic Science and Technology of China)
-* Brian Terry, PhD student in Computer Science, University of North Dakota, Jan.2024- Present (BS, University of Georgia; ME, University of Georgia; MS, University of West Georgia)
-* Ali Haidar, PhD student in Computer Science, University of North Dakota, Aug. 2024 - Present (MS, Arizona State University) 
-* Desmond Amadigwe, PhD student in Computer Science, University of North Dakota, Jan. 2025 - Present (MS, Hood College)
-* Preeti Choubey, PhD student in Computer Science, University of North Dakota, Jan. 2025 - Present (MS, Boston University)
+* Qinxuan Shi, PhD student in Computer Science, Jan. 2024 - Present (BE, Nanjing University; MS, University of Florida) 
+* Zhanglong Yang, PhD student in Computer Science, Jan. 2024 - Present (BS, University of Electronic Science and Technology of China)
+* Brian Terry, PhD student in Computer Science, Jan.2024- Present (BS, University of Georgia; ME, University of Georgia; MS, University of West Georgia)
+* Ali Haidar, PhD student in Computer Science, Aug. 2024 - Present (MS, Arizona State University) 
+* Desmond Amadigwe, PhD student in Computer Science, Jan. 2025 - Present (MS, Hood College)
+* Preeti Choubey, PhD student in Computer Science, Jan. 2025 - Present (MS, Boston University)
 
 News
 ======
-* **12/2024** *Welcome Desmond and Preeti, who will be joining my lab as new graduate students in Jan 2025.*
+* **01/2025** *Welcome Desmond and Preeti, who join my lab as new graduate students.*
 * **11/2024** *Dr. Shao (PI) received the Early Career Scholars Program award from UND.*
 * **11/2024** One paper accepted to IEEE ICCC 2024.  
 * **10/2024** Dr. Shao servered as Co-chair for IEEE CARS 2024.
