@@ -30,7 +30,7 @@ News
 * **01/2025** *Welcome Desmond and Preeti, who join my lab as new graduate students.*
 * **11/2024** *Dr. Shao (PI) received the Early Career Scholars Program award from UND.*
 * **11/2024** One paper accepted to IEEE ICCC 2024.  
-* **10/2024** Dr. Shao servered as Co-chair for IEEE CARS 2024.
+* **10/2024** Dr. Shao servered as Co-Chair for IEEE CARS 2024.
 * **10/2024** One paper accepted to IEEE ECICE 2024.
 * **08/2024** *Dr. Shao (Co-PI) received Industry University Cooperative Research Center planning grant from NSF.*
 <!-- * **08/2024** Dr. Shao was invited to server as Technical Program Committee (TPC) member at the IEEE HOST 2025. -->
