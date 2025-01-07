@@ -13,7 +13,7 @@ Dr. Sicong Shao is an Assistant Professor in the School of Electrical Engineerin
 
 
 
-<span style="color: red;">*I am actively seeking graduate students to join my lab working with me. If you are interested, please email me at sicong.shao@und.edu*</span>  
+<span style="color: red;">*I am looking for highly motivated graduate students to work with me. If you are interested, please email me at sicong.shao@und.edu*</span>  
 
 
 Current Students
