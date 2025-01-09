@@ -38,7 +38,7 @@ News
 * **08/2024** Two papers accepted to IEEE CARS 2024.
 * **07/2024** One paper accepted to DDDAS 2024.
 * **06/2024** *Welcome new student Brian Terry to join my lab.*
-* **02/2024** *Dr. Shao (PI) received SARJ award through NSF EPSCoR RII Track-2 FEC from USA/NSF.*
+* **02/2024** *Dr. Shao (PI) received SARJ award through NSF EPSCoR RII Track-2 FEC from UofSouthAlabma/NSF.*
 * **01/2024** *Welcome new students Qinxuan Shi and Zhanglong Yang, who join my lab.*
 * **01/2024** Dr. Shao was invited to server as guest editor for a special issue in the Electronics journal.
 * **10/2023** Three papers accepted to AICCSA 2023.
