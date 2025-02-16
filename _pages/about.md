@@ -27,6 +27,7 @@ Current Students
 
 News
 ======
+* **02/2025** *Dr. Shao was appointed as a Editorial Board Member for the Cluster Computing journal.
 * **01/2025** *Welcome Desmond and Preeti, who join my lab as new graduate students.*
 * **11/2024** *Dr. Shao (PI) received the Early Career Scholars Program award from UND.*
 * **11/2024** One paper accepted to IEEE ICCC 2024.  
