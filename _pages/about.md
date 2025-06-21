@@ -27,6 +27,10 @@ Current Students
 
 News
 ======
+* **06/2025** Two papers accepted to SEKE 2025.
+* **05/2025** One paper accepted to IEEE MWSCAS 2025.
+* **03/2025** One paper accepted to IEEE CEC 2025.
+* **03/2025** One paper accepted to Engineering Proceedings.
 * **01/2025** Dr. Shao was appointed as a Editorial Board Member for the Cluster Computing journal.
 * **01/2025** *Welcome Desmond and Preeti, who join my lab as new graduate students.*
 * **11/2024** *Dr. Shao (PI) received the Early Career Scholars Program award from UND.*
