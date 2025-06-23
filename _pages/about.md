@@ -20,7 +20,7 @@ Current Students
 ======
 * Qinxuan Shi, PhD student in Computer Science at UND, Jan. 2024 - Present (BE, Nanjing University; MS, University of Florida) 
 * Zhanglong Yang, PhD student in Computer Science at UND, Jan. 2024 - Present (BS, University of Electronic Science and Technology of China)
-* Brian Terry, PhD student in Computer Science at UND, Jan.2024- Present (BS, University of Georgia; ME, University of Georgia; MS, University of West Georgia)
+* Brian Terry, PhD student in Computer Science at UND, Jan.2024- Present (BS and ME, University of Georgia; MS, University of West Georgia)
 * Ali Haidar, PhD student in Computer Science at UND, Aug. 2024 - Present (MS, Arizona State University) 
 * Desmond Amadigwe, PhD student in Computer Science at UND, Jan. 2025 - Present (MS, Hood College)
 * Preeti Choubey, PhD student in Computer Science at UND, Jan. 2025 - Present (MS, Boston University)
