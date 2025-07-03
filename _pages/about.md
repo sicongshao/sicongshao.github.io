@@ -16,7 +16,7 @@ Dr. Sicong Shao is an Assistant Professor in the School of Electrical Engineerin
 <span style="color: red;">*I am looking for highly motivated graduate students to work with me. If you are interested, please email me at sicong.shao@und.edu*</span>  
 
 
-Current Students
+Students
 ======
 * Qinxuan Shi, PhD student in Computer Science at UND, Jan. 2024 - Present (BE, Nanjing University; MS, University of Florida) 
 * Zhanglong Yang, PhD student in Computer Science at UND, Jan. 2024 - Present (BS, University of Electronic Science and Technology of China)
