@@ -24,9 +24,20 @@ Students
 * Ali Haidar, PhD student in CS at UND, Aug. 2024 - Present (MS, Arizona State University) 
 * Desmond Amadigwe, PhD student in CS at UND, Jan. 2025 - Present (MS, Hood College)
 * Preeti Choubey, PhD student in CS at UND, Jan. 2025 - Present (MS, Boston University)
+* Pranali Baban Dhobale, PhD student in CS at UND, Aug. 2025 - Present (MS, Northwest Missouri State University)
+* Prajakt Uttamrao Khawase, PhD student in CS at UND, Aug. 2025 - Present (MS, Northwest Missouri State University)
+* Prajakt Uttamrao Khawase, PhD student in CS at UND, Aug. 2025 - Present (MS, Northwest Missouri State University)
+* Sudheer Krishna Battu, PhD student in CS at UND, Aug. 2025 - Present (MS, Syracuse University)
+
+
 
 News
 ======
+* **09/2025** Our paper is accepted by IEEE Transactions on Artificial Intelligence.
+* **09/2025** *Welcome new students Sudheer, Prajakt, and Pranali, to join my lab.*
+* **09/2025** Our paper is accepted by IEEE ICDM 2025 Workshop
+* **09/2025** Six papers are accepted by IEEE CARS 2025
+* **07/2025** Dr. Shao was invited to server as guest editor for a special issue in the Sensors journal.
 * **06/2025** Two papers accepted to SEKE 2025.
 * **05/2025** One paper accepted to IEEE MWSCAS 2025.
 * **03/2025** One paper accepted to IEEE CEC 2025.
