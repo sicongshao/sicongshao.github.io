@@ -26,7 +26,6 @@ Students
 * Preeti Choubey, PhD student in CS at UND, Jan. 2025 - Present (MS, Boston University)
 * Pranali Baban Dhobale, PhD student in CS at UND, Aug. 2025 - Present (MS, Northwest Missouri State University)
 * Prajakt Uttamrao Khawase, PhD student in CS at UND, Aug. 2025 - Present (MS, Northwest Missouri State University)
-* Prajakt Uttamrao Khawase, PhD student in CS at UND, Aug. 2025 - Present (MS, Northwest Missouri State University)
 * Sudheer Krishna Battu, PhD student in CS at UND, Aug. 2025 - Present (MS, Syracuse University)
 
 
