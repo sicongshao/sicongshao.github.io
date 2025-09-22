@@ -32,12 +32,12 @@ Students
 
 News
 ======
-* **09/2025** Our paper is accepted by IEEE Transactions on Artificial Intelligence.
+* **09/2025** One paper is accepted by IEEE Transactions on Artificial Intelligence.
 * **09/2025** *Welcome new students Sudheer, Prajakt, and Pranali, to join my lab.*
-* **09/2025** Our paper is accepted by IEEE ICDM 2025 Workshop.
+* **09/2025** One paper is accepted by IEEE ICDM 2025 Workshop.
 * **09/2025** Six papers are accepted by IEEE CARS 2025.
+* **08/2025** One paper is accepted by NAPS 2025.
 * **07/2025** Dr. Shao was invited to server as guest editor for a special issue in the Sensors journal.
-* **07/2025** Our paper is accepted by NAPS 2025.
 * **06/2025** Two papers accepted to SEKE 2025.
 * **05/2025** One paper accepted to IEEE MWSCAS 2025.
 * **03/2025** One paper accepted to IEEE CEC 2025.
