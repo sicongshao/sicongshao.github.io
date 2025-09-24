@@ -33,7 +33,7 @@ Students
 News
 ======
 * **09/2025** One paper is accepted by IEEE Transactions on Artificial Intelligence.
-* **09/2025** *Welcome new students Sudheer, Prajakt, and Pranali, to join my lab.*
+* **09/2025** *Welcome new students Sudheer, Prajakt, and Pranali, to join my research group.*
 * **09/2025** One paper is accepted by IEEE ICDM 2025 Workshop.
 * **09/2025** Six papers are accepted by IEEE CARS 2025.
 * **08/2025** One paper is accepted by NAPS 2025.
