@@ -32,6 +32,7 @@ Students
 
 News
 ======
+* **10/2025** One paper is accepted by IEEE TICPDS.
 * **09/2025** One paper is accepted by IEEE Transactions on Artificial Intelligence.
 * **09/2025** *Welcome new students Sudheer, Prajakt, and Pranali, to join my research group.*
 * **09/2025** One paper is accepted by LLM4Sec Workshop at IEEE ICDM 2025.
