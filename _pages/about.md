@@ -32,6 +32,7 @@ Students
 
 News
 ======
+* **11/2025** One paper is accepted by PAM 2026.
 * **10/2025** One paper is accepted by IEEE ICPADS 2025.
 * **09/2025** One paper is accepted by IEEE Transactions on Artificial Intelligence.
 * **09/2025** *Welcome new students Sudheer, Prajakt, and Pranali, to join my research group.*
