@@ -32,6 +32,7 @@ Students
 
 News
 ======
+* **12/2025** One Paper is accepted by IEEE Access.
 * **11/2025** One paper is accepted by PAM 2026.
 * **10/2025** One paper is accepted by IEEE ICPADS 2025.
 * **09/2025** One paper is accepted by IEEE Transactions on Artificial Intelligence.
