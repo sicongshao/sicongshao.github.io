@@ -37,6 +37,7 @@ News
 * **11/2025** Dr. Shao was invited to organize a Special Issue in the journal Computers, Materials & Continua.
 * **11/2025** One paper is accepted by PAM 2026.
 * **10/2025** One paper is accepted by IEEE ICPADS 2025.
+* **10/2025** One paper is accepted by IEEE ROBIO 2025.
 * **09/2025** One paper is accepted by IEEE Transactions on Artificial Intelligence.
 * **09/2025** *Welcome new students Sudheer, Prajakt, and Pranali, to join my research group.*
 * **09/2025** One paper is accepted by LLM4Sec Workshop at IEEE ICDM 2025.
