@@ -32,8 +32,9 @@ Students
 
 News
 ======
+* **01/2026** One Paper is accepted by Sensors.
 * **12/2025** One Paper is accepted by IEEE Access.
-* **11/2025** Dr. Shao was invited to organize a Special Issue on intrusion detection in the journal CMC.
+* **11/2025** Dr. Shao was invited to organize a Special Issue in the journal Computers, Materials & Continua.
 * **11/2025** One paper is accepted by PAM 2026.
 * **10/2025** One paper is accepted by IEEE ICPADS 2025.
 * **09/2025** One paper is accepted by IEEE Transactions on Artificial Intelligence.
@@ -41,7 +42,7 @@ News
 * **09/2025** One paper is accepted by LLM4Sec Workshop at IEEE ICDM 2025.
 * **09/2025** Six papers are accepted by IEEE CARS 2025.
 * **08/2025** One paper is accepted by NAPS 2025.
-* **07/2025** Dr. Shao was invited to server as guest editor for a special issue on UAV security in the journal Sensors.
+* **07/2025** Dr. Shao was invited to server as guest editor for a special issue in the journal Sensors.
 * **06/2025** Two papers accepted to SEKE 2025.
 * **05/2025** One paper accepted to IEEE MWSCAS 2025.
 * **03/2025** One paper accepted to IEEE CEC 2025.
@@ -59,7 +60,7 @@ News
 * **06/2024** *Welcome new student Brian Terry to join my lab.*
 * **02/2024** *Dr. Shao (PI) received SARJ award through NSF RII Track 2 FEC from NSF EPSCoR Edge AI Program.*
 * **01/2024** *Welcome new students Qinxuan Shi and Zhanglong Yang, who join my lab.*
-* **01/2024** Dr. Shao was invited to organize a Special Issue on intrusion detection in the journal Electronics.
+* **01/2024** Dr. Shao was invited to organize a Special Issue in the journal Electronics.
 * **10/2023** Three papers accepted to AICCSA 2023.
 * **09/2023** One paper accepted to IEEE UEMCON 2023.
 * **08/2023** One paper accepted to ICMLA 2023.
