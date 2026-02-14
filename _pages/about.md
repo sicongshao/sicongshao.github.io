@@ -35,6 +35,7 @@ News
 * **02/2026** One Paper is accepted by PAKDD 2026.
 * **02/2026** One Paper is accepted by IEEE ISQED 2026.
 * **01/2026** One Paper is accepted by Sensors.
+* **01/2026** *Dr. Shao (Co-PI) received the Early Career Scholars Program award from UND.*
 * **12/2025** One Paper is accepted by IEEE Access.
 * **11/2025** Dr. Shao was invited to organize a Special Issue in the journal Computers, Materials & Continua.
 * **11/2025** One paper is accepted by PAM 2026.
