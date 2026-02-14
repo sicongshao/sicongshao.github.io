@@ -32,6 +32,7 @@ Students
 
 News
 ======
+* **02/2026** One Paper is accepted by PAKDD 2026.
 * **02/2026** One Paper is accepted by IEEE ISQED 2026.
 * **01/2026** One Paper is accepted by Sensors.
 * **12/2025** One Paper is accepted by IEEE Access.
