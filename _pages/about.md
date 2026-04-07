@@ -32,6 +32,7 @@ Students
 
 News
 ======
+* **04/2026** One Paper is accepted by Annual Meeting of the Association for Computational Linguistics (ACL 2026)
 * **03/2026** One Paper is accepted by Journal of Intelligent Information Systems.
 * **03/2026** One Paper is accepted by IEEE SECON 2026.
 * **02/2026** One Paper is accepted by PAKDD 2026.
