@@ -32,8 +32,8 @@ Students
 
 News
 ======
-* **04/2026** One Paper is accepted by ACM HPDC 2026
 * **04/2026** One Paper is accepted by IEEE ICCCN 2026
+* **04/2026** One Paper is accepted by ACM HPDC 2026
 * **04/2026** One Paper is accepted by ACL 2026
 * **04/2026** One Paper is accepted by International Journal of Information Security
 * **03/2026** One Paper is accepted by IEEE FUZZ 2026
