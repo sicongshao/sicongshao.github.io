@@ -32,6 +32,7 @@ Students
 
 News
 ======
+* **05/2026** One Paper is accepted by IEEE Access
 * **04/2026** One Paper is accepted by IEEE ICCCN 2026
 * **04/2026** One Paper is accepted by ACM HPDC 2026
 * **04/2026** One Paper is accepted by ACL 2026
