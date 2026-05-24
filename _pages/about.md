@@ -20,7 +20,7 @@ Students
 ======
 * Qinxuan Shi, PhD student in CS at UND, Jan. 2024 - Present (BE, Nanjing University; MS, University of Florida) 
 * Zhanglong Yang, PhD student in CS at UND, Jan. 2024 - Present (BS, University of Electronic Science and Technology of China)
-* Peilin Li, PhD student in CS at UND, 2026 - Present (BS, UC San Diego, MS, University of Southern California)
+* Peilin Li, PhD student in CS at UND, May. 2026 - Present (BS, UC San Diego, MS, University of Southern California)
 * Brian Terry, PhD student in CS at UND, Jan.2024- Present (BS and ME, University of Georgia; MS, University of West Georgia)
 * Ali Haidar, PhD student in CS at UND, Aug. 2024 - Present (MS, Arizona State University) 
 * Desmond Amadigwe, PhD student in CS at UND, Jan. 2025 - Present (MS, Hood College)
@@ -33,6 +33,7 @@ Students
 
 News
 ======
+* **05/2026** *Welcome new student Peilin Li to join my research group.*
 * **05/2026** One Paper is accepted by IEEE Access
 * **04/2026** One Paper is accepted by IEEE ICCCN 2026
 * **04/2026** One Paper is accepted by ACM HPDC 2026
