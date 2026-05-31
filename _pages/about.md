@@ -33,7 +33,7 @@ Students
 
 News
 ======
-* **06/2026** One Paper is accepted by IEEE Transactions on Artificial Intelligence.
+* **05/2026** One Paper is accepted by IEEE Transactions on Artificial Intelligence.
 * **05/2026** *Welcome new student Peilin Li to join my research group.*
 * **05/2026** One Paper is accepted by IEEE Access
 * **04/2026** One Paper is accepted by IEEE ICCCN 2026
