@@ -33,14 +33,15 @@ Students
 
 News
 ======
-* **05/2026** One Paper is accepted by IEEE Transactions on Artificial Intelligence.
+* **06/2026** One Paper is accepted by IEEE Transactions on Artificial Intelligence.
+* **06/2026** Two Paper are accepted by ICANN 2026.
 * **05/2026** *Welcome new student Peilin Li to join my research group.*
-* **05/2026** One Paper is accepted by IEEE Access
-* **04/2026** One Paper is accepted by IEEE ICCCN 2026
-* **04/2026** One Paper is accepted by ACM HPDC 2026
-* **04/2026** One Paper is accepted by ACL 2026
-* **04/2026** One Paper is accepted by International Journal of Information Security
-* **03/2026** One Paper is accepted by IEEE FUZZ 2026
+* **05/2026** One Paper is accepted by IEEE Access.
+* **04/2026** One Paper is accepted by IEEE ICCCN 2026.
+* **04/2026** One Paper is accepted by ACM HPDC 2026.
+* **04/2026** One Paper is accepted by ACL 2026.
+* **04/2026** One Paper is accepted by International Journal of Information Security.
+* **03/2026** One Paper is accepted by IEEE FUZZ 2026.
 * **03/2026** One Paper is accepted by Journal of Intelligent Information Systems.
 * **03/2026** One Paper is accepted by IEEE SECON 2026.
 * **02/2026** One Paper is accepted by PAKDD 2026.
