@@ -28,12 +28,15 @@ Students
 * Pranali Baban Dhobale, PhD student in CS at UND, Aug. 2025 - Present (MS, Northwest Missouri State University)
 * Prajakt Uttamrao Khawase, PhD student in CS at UND, Aug. 2025 - Present (MS, Northwest Missouri State University)
 * Sudheer Krishna Battu, PhD student in CS at UND, Aug. 2025 - Present (MS, Syracuse University)
+* Omar Alberto Olivares, PhD student in CS at UND, Jan. 2026 - Present (MS, Centro de Investigación en Matemáticas)
+* Carlos Alvarado Martinez, PhD student in CS at UND, Jan. 2026 - Present (MS. University of Colorado Boulder)
 
 
 
 News
 ======
 * **06/2026** One Paper is accepted by IEEE Transactions on Artificial Intelligence.
+* **06/2026** *Welcome new students, Carlos and Omar, to join my research group.*
 * **06/2026** Two Papers are accepted by ICANN 2026.
 * **05/2026** *Welcome new student Peilin Li to join my research group.*
 * **05/2026** One Paper is accepted by IEEE Access.
