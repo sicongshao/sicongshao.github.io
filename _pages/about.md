@@ -43,7 +43,6 @@ News
 * **04/2026** One Paper is accepted by IEEE ICCCN 2026.
 * **04/2026** One Paper is accepted by ACL 2026.
 * **04/2026** One Paper is accepted by International Journal of Information Security.
-* **04/2026** One Paper is accepted by ACM HPDC Poster 2026.
 * **03/2026** One Paper is accepted by IEEE FUZZ 2026.
 * **03/2026** One Paper is accepted by Journal of Intelligent Information Systems.
 * **03/2026** One Paper is accepted by IEEE SECON 2026.
