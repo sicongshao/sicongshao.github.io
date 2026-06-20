@@ -28,8 +28,8 @@ Students
 * Pranali Baban Dhobale, PhD student in CS at UND, Aug. 2025 - Present (MS, Northwest Missouri State University)
 * Prajakt Uttamrao Khawase, PhD student in CS at UND, Aug. 2025 - Present (MS, Northwest Missouri State University)
 * Sudheer Krishna Battu, PhD student in CS at UND, Aug. 2025 - Present (MS, Syracuse University)
-* Omar Alberto Olivares, PhD student in CS at UND, Jan. 2026 - Present (MS, Centro de Investigación en Matemáticas)
-* Carlos Alvarado Martinez, PhD student in CS at UND, Jan. 2026 - Present (MS. University of Colorado Boulder)
+* Omar Alberto Olivares, PhD student in CS at UND, 2026 - Present (MS, Centro de Investigación en Matemáticas)
+* Carlos Alvarado Martinez, PhD student in CS at UND, 2026 - Present (MS. University of Colorado Boulder)
 
 
 
