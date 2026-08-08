@@ -35,6 +35,7 @@ Students
 
 News
 ======
+* **08/2026** One Papers is accepted by Neurocomputing.
 * **07/2026** One Papers is accepted by Future Generation Computer Systems.
 * **06/2026** One Paper is accepted by IEEE Transactions on Artificial Intelligence.
 * **06/2026** One Paper is accepted by IEEE SMC 2026.
