@@ -37,7 +37,7 @@ News
 ======
 * **09/2026** One Paper is accepted by ACSAC 2026.
 * **09/2026** One Paper is accepted by Cybersecurity.
-* **09/2026** Two Papers are accepted by IEEE CARS.
+* **09/2026** Two Papers are accepted by IEEE CARS 2026.
 * **09/2026** One Paper is accepted by Computers, Materials & Continua.
 * **08/2026** One Paper is accepted by Neurocomputing.
 * **07/2026** One Paper is accepted by Future Generation Computer Systems.
