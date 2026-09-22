@@ -36,7 +36,7 @@ Students
 News
 ======
 * **09/2026** One Paper is accepted by ACSAC 2026.
-* **09/2026** One Paper is accepted by Cybersecurity Journal.
+* **09/2026** One Paper is accepted by Cybersecurity.
 * **09/2026** One Paper is accepted by Computers, Materials & Continua.
 * **08/2026** One Paper is accepted by Neurocomputing.
 * **07/2026** One Paper is accepted by Future Generation Computer Systems.
