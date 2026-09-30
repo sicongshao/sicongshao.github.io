@@ -39,7 +39,6 @@ News
 * **09/2026** *Dr. Shao (Co-PI) received research funding from U.S. EPA.* 
 * **09/2026** One Paper is accepted by Cybersecurity.
 * **09/2026** One Paper is accepted by Computers, Materials & Continua.
-* **09/2026** Two Papers are accepted by IEEE CARS 2026.
 * **07/2026** One Paper is accepted by Future Generation Computer Systems.
 * **06/2026** One Paper is accepted by IEEE Transactions on Artificial Intelligence.
 * **06/2026** One Paper is accepted by IEEE SMC 2026.
