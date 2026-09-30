@@ -43,7 +43,7 @@ News
 * **07/2026** One Paper is accepted by Future Generation Computer Systems.
 * **06/2026** One Paper is accepted by IEEE Transactions on Artificial Intelligence.
 * **06/2026** One Paper is accepted by IEEE SMC 2026.
-* **06/2026** *Dr. Shao received research funding from U.S. DOE EPSCoR Award as UND Co-PI.*
+* **06/2026** *Dr. Shao received research funding from DOE EPSCoR as UND Co-PI.*
 * **06/2026** *Welcome new students, Carlos and Omar, to join my research group.*
 * **06/2026** Two Papers are accepted by ICANN 2026.
 * **05/2026** *Welcome new student Peilin Li to join my research group.*
