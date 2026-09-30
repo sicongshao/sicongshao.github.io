@@ -36,13 +36,14 @@ Students
 News
 ======
 * **09/2026** One Paper is accepted by ACSAC 2026.
+* **09/2026** *Dr. Shao (Co-PI) received research funding from U.S. EPA.* 
 * **09/2026** One Paper is accepted by Cybersecurity.
-* **09/2026** Two Papers are accepted by IEEE CARS 2026.
 * **09/2026** One Paper is accepted by Computers, Materials & Continua.
-* **08/2026** One Paper is accepted by Neurocomputing.
+* **09/2026** Two Papers are accepted by IEEE CARS 2026.
 * **07/2026** One Paper is accepted by Future Generation Computer Systems.
 * **06/2026** One Paper is accepted by IEEE Transactions on Artificial Intelligence.
 * **06/2026** One Paper is accepted by IEEE SMC 2026.
+* **06/2026** *Dr. Shao received research funding from U.S. DOE EPSCoR Award as UND Co-PI.*
 * **06/2026** *Welcome new students, Carlos and Omar, to join my research group.*
 * **06/2026** Two Papers are accepted by ICANN 2026.
 * **05/2026** *Welcome new student Peilin Li to join my research group.*
@@ -83,7 +84,7 @@ News
 * **08/2024** Two papers accepted to IEEE CARS 2024.
 * **07/2024** One paper accepted to DDDAS 2024.
 * **06/2024** *Welcome new student Brian Terry to join my lab.*
-* **02/2024** *Dr. Shao (PI) received SARJ award through NSF RII Track 2 FEC from NSF EPSCoR Edge AI Program.*
+* **02/2024** *Dr. Shao received SARJ award through NSF RII Track 2 FEC from NSF EPSCoR Edge AI Program.*
 * **01/2024** *Welcome new students Qinxuan Shi and Zhanglong Yang, who join my lab.*
 * **01/2024** Dr. Shao was invited to organize a Special Issue in the journal Electronics.
 * **10/2023** Three papers accepted to AICCSA 2023.
