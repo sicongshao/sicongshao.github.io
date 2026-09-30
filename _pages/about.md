@@ -56,9 +56,9 @@ News
 * **02/2026** One Paper is accepted by PAKDD 2026.
 * **02/2026** One Paper is accepted by IEEE ISQED 2026.
 * **01/2026** One Paper is accepted by Sensors.
-* **01/2026** *Dr. Shao (Co-PI) received the Early Career Scholars Program award from UND.*
+* **01/2026** *Received the Early Career Scholars Program award from UND as co-PI.*
 * **12/2025** One Paper is accepted by IEEE Access.
-* **11/2025** Dr. Shao was invited to organize a Special Issue in the journal Computers, Materials & Continua.
+* **11/2025** Invited to organize a Special Issue in the journal Computers, Materials & Continua.
 * **11/2025** One paper is accepted by PAM 2026.
 * **10/2025** One paper is accepted by IEEE ICPADS 2025.
 * **10/2025** One paper is accepted by IEEE ROBIO 2025.
@@ -67,25 +67,25 @@ News
 * **09/2025** One paper is accepted by LLM4Sec Workshop at IEEE ICDM 2025.
 * **09/2025** Six papers are accepted by IEEE CARS 2025.
 * **08/2025** One paper is accepted by NAPS 2025.
-* **07/2025** Dr. Shao was invited to server as guest editor for a special issue in the journal Sensors.
+* **07/2025** Invited to server as guest editor for a special issue in the journal Sensors.
 * **06/2025** Two papers accepted to SEKE 2025.
 * **05/2025** One paper accepted to IEEE MWSCAS 2025.
 * **03/2025** One paper accepted to IEEE CEC 2025.
 * **03/2025** One paper accepted to Engineering Proceedings.
-* **01/2025** Dr. Shao was appointed as a Editorial Board Member for the Cluster Computing journal.
+* **01/2025** Appointed as a Editorial Board Member for the Cluster Computing journal.
 * **01/2025** *Welcome Desmond and Preeti, who join my lab as new graduate students.*
-* **11/2024** *Dr. Shao (PI) received the Early Career Scholars Program award from UND.*
+* **11/2024** *Received the Early Career Scholars Program award from UND as PI.*
 * **11/2024** One paper accepted to IEEE ICCC 2024.  
-* **10/2024** Dr. Shao servered as Co-Chair for IEEE CARS 2024.
-* **08/2024** *Dr. Shao (Co-PI) received Industry University Cooperative Research Center planning grant from NSF.*
+* **10/2024** Servered as Co-Chair for IEEE CARS 2024.
+* **08/2024** *Received Industry University Cooperative Research Center planning grant from NSF as Co-PI.*
 <!-- * **08/2024** Dr. Shao was invited to server as Technical Program Committee (TPC) member at the IEEE HOST 2025. -->
 * **08/2024** *Welcome new student Ali Haidar to join my lab.*
 * **08/2024** Two papers accepted to IEEE CARS 2024.
 * **07/2024** One paper accepted to DDDAS 2024.
 * **06/2024** *Welcome new student Brian Terry to join my lab.*
-* **02/2024** *Dr. Shao received SARJ award through NSF RII Track 2 FEC from NSF EPSCoR Edge AI Program.*
+* **02/2024** *Received SARJ award through NSF RII Track 2 FEC from NSF EPSCoR Edge AI Program.*
 * **01/2024** *Welcome new students Qinxuan Shi and Zhanglong Yang, who join my lab.*
-* **01/2024** Dr. Shao was invited to organize a Special Issue in the journal Electronics.
+* **01/2024** Invited to organize a Special Issue in the journal Electronics.
 * **10/2023** Three papers accepted to AICCSA 2023.
 * **09/2023** One paper accepted to IEEE UEMCON 2023.
 * **08/2023** One paper accepted to ICMLA 2023.
