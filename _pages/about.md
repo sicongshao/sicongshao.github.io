@@ -83,7 +83,7 @@ News
 * **08/2024** Two papers accepted to IEEE CARS 2024.
 * **07/2024** One paper accepted to DDDAS 2024.
 * **06/2024** *Welcome new student Brian Terry to join my lab.*
-* **02/2024** *Received SARJ award as PI through NSF RII Track 2 FEC from NSF EPSCoR Edge AI Program.*
+* **02/2024** *Received SARJ award (PI) through NSF EPSCoR Edge AI Program.*
 * **01/2024** *Welcome new students Qinxuan Shi and Zhanglong Yang, who join my lab.*
 * **01/2024** Invited to organize a Special Issue in the journal Electronics.
 * **10/2023** Three papers accepted to AICCSA 2023.
