@@ -39,6 +39,7 @@ News
 * **09/2026** *Received research funding from U.S. EPA as Co-PI.* 
 * **09/2026** One Paper is accepted by Cybersecurity.
 * **09/2026** One Paper is accepted by Computers, Materials & Continua.
+* **08/2026** Two Papers are accepted by IEEE CARS 2026.
 * **07/2026** One Paper is accepted by Future Generation Computer Systems.
 * **06/2026** One Paper is accepted by IEEE Transactions on Artificial Intelligence.
 * **06/2026** One Paper is accepted by IEEE SMC 2026.
