@@ -45,6 +45,7 @@ News
 * **06/2026** One Paper is accepted by IEEE SMC 2026.
 * **06/2026** *Welcome new students, Carlos and Omar, to join my research group.*
 * **06/2026** Two Papers are accepted by ICANN 2026.
+* **06/2026** Received research funding from DOE EPSCoR. 
 * **05/2026** *Welcome new student Peilin Li to join my research group.*
 * **05/2026** One Paper is accepted by IEEE Access.
 * **04/2026** One Paper is accepted by ACM HPDC 2026.
